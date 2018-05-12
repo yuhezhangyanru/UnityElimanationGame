@@ -1,0 +1,2 @@
+# UnityElimanationGame
+UnityElimanationGame，一个安卓手机的消除类小游戏！
